@@ -76,4 +76,4 @@ curl -X DELETE http://127.0.0.1:5003/employees/1 -H "Authorization: Bearer PASTE
 - **Authorization:** checks what the logged-in user is allowed to do (employee or admin role).
 
 ### Video demonstration
-Add your public video URL here: `PASTE_TASK_3_VIDEO_LINK`
+Add your public video URL here: `https://drive.google.com/file/d/1Kc-Ua5VIvoUPOHvZGMYJF2ZfnIEXXTrI/view?usp=sharing`
