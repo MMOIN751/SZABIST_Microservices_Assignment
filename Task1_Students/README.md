@@ -37,4 +37,4 @@ curl -X DELETE http://127.0.0.1:5001/students/1
 ```
 
 ### Video demonstration
-Add your public video URL here: `PASTE_TASK_1_VIDEO_LINK`
+Add your public video URL here: `https://drive.google.com/file/d/1M-R_TV-xwreIlzvB-w2T7ZQdq_4F8DyL/view?usp=sharing`
